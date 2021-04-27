@@ -84,16 +84,8 @@ https://raw.githubusercontent.com/GlitterZero/Scripts/NeteaseMusic/NeteaseMusic.
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Streaming.list, tag=Streaming, force-policy=Global, update-interval=86400, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/StreamingSE.list, tag=StreamingSE, force-policy=StreamingSE, update-interval=86400, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Global.list, tag=Global, force-policy=Global, update-interval=86400, opt-parser=true, enabled=true
-#后续规则修正
-# China 中国直连
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/China.list, tag=China, force-policy=direct, update-interval=86400, opt-parser=true, enabled=true
-# IPList for China
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/ChinaIP.list, tag=ChinaIP, force-policy=direct, update-interval=86400, opt-parser=true, enabled=true
-# 野比去广告
-# 野比去广告分
-# Privacy 隐私
-# Hijacking 运营商劫持或恶意网站
-
 [filter_local]
 # 本地分流规则(相同规则下，本地规则将覆盖远程规则，优先生效)
 # 绕过企业证书过期
@@ -124,19 +116,12 @@ final, Final
 
 [rewrite_remote]
 # rewrite 复写远程订阅
-#Cookie获取成功后，手动禁用该重写规则
 https://qxzy.top/rules/QuantumultX/gz/getCookie1.conf, tag=获取Cookie1（获取完就禁用）, update-interval=86400, opt-parser=false, enabled=false
 https://raw.githubusercontent.com/zwf234/rules/master/getCookie.conf, tag=获取Cookie（获取完就禁用）, update-interval=86400, opt-parser=false, enabled=false
-# vip解锁合集
 https://raw.githubusercontent.com/zwf234/rules/master/qxrules.conf, tag=奇心规则合集, update-interval=86400, opt-parser=false, enabled=true
-# 神机重定向规则
-https://raw.githubusercontent.com/Tartarus2014/QuantumultX-Script/main/Unlock/TiktokJP.conf, tag=Tiktok（修改后缀换区JP TW KR UK US）, update-interval=86400, opt-parser=false, enabled=true
-# 神机去广告
+https://raw.githubusercontent.com/Tartarus2014/QuantumultX-Script/main/Unlock/TiktokJP.conf, tag=Tiktok（修改后缀换区JP TW KR UK US）, update-interval=86400, opt-parser=false, enabled=tru
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/Advertising.conf, tag=神机去广告, update-interval=86400, opt-parser=false, enabled=true
-# 神机去广告 plus
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/AdvertisingPlus.conf, tag=神机去广告 Plus, update-interval=86400, opt-parser=false, enabled=true
-# tiktok解锁（修改后缀换区JP TW KR UK US）
-# 轻度去广告
 https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Rewrite_lhie1.conf, tag=lhie1去广告, update-interval=86400, opt-parser=false, enabled=true
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/General.conf, tag=神机重定向, update-interval=86400, opt-parser=false, enabled=true
 
