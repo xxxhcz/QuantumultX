@@ -1,4 +1,4 @@
-网易云解锁灰色 = shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false
+shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=网易云解锁灰色
 网易云解锁灰色1 = http,106.52.127.72,19951
 网易云解锁灰色2 = http,music.griouges.cn,39000
 网易云解锁灰色3 = http,taron.top,100
