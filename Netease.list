@@ -9,7 +9,8 @@ shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.
 🎧 Netease8 = Shadowsocks,music.desperadoj.com,30003,aes-128-gcm,"desperadoj.com_free_proxy_emx2"
 🎧 Netease9 = Shadowsocks,proxy.plusmedia.site,58080,rc4-md5,"ieG9l1nte5eo7IBZas84jLi"
 🎧 Netease10 = Shadowsocks,proxy.plusmedia.site,58081,rc4-md5,"ieG9l1nte5eo7IBZas84jLi"
- - {name: 🎧 第一项有数值就可用/火箭圈x通用, server: lolico.me, port: 443, type: http, country:us US, tls: false, skip-cert-verify: false}
+proxies:
+  - {name: 🎧 第一项有数值就可用/火箭圈x通用, server: lolico.me, port: 443, type: http, country:us US, tls: false, skip-cert-verify: false}
   - {name: 🎧 网易音乐1, server: lolico.me, port: 443, type: http, country:us US, tls: false, skip-cert-verify: false}
   - {name: 🎧 网易音乐2, server: aimer.one, port: 3333, type: http, country:cn CN, tls: false, skip-cert-verify: false}
   - {name: 🎧 TG频道@M0NATA, server: gx3dong.top, port: 8088, type: http, country:cn CN, tls: false, skip-cert-verify: false}
