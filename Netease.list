@@ -1,11 +1,23 @@
-shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=网易云解锁灰色
-网易云解锁灰色1 = http,106.52.127.72,19951
-网易云解锁灰色2 = http,music.griouges.cn,39000
-网易云解锁灰色3 = http,taron.top,100
-网易云解锁灰色4 = http,3music.poetyin.me,100
-网易云解锁灰色5 = http,block4music.poetyin.me,39000
-网易云解锁灰色6 = Shadowsocks,blockmusic.poetyin.me,30003,aes-128-gcm,"desperadoj.com_free_proxy_x80j"
-网易云解锁灰色7 = Shadowsocks,music.desperadoj.com,30001,aes-128-gcm,"desperadoj.com_free_proxy_emx2"
-网易云解锁灰色8 = Shadowsocks,music.desperadoj.com,30003,aes-128-gcm,"desperadoj.com_free_proxy_emx2"
-网易云解锁灰色9 = Shadowsocks,proxy.plusmedia.site,58080,rc4-md5,"ieG9l1nte5eo7IBZas84jLi"
-网易云解锁灰色10 = Shadowsocks,proxy.plusmedia.site,58081,rc4-md5,"ieG9l1nte5eo7IBZas84jLi"
+🎧 Netease = shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false
+🎧 Netease1 = http,106.52.127.72,19951
+🎧 Netease2 = http,music.griouges.cn,39000
+🎧 Netease3 = http,taron.top,100
+🎧 Netease4 = http,3music.poetyin.me,100
+🎧 Netease5 = http,block4music.poetyin.me,39000
+🎧 Netease6 = Shadowsocks,blockmusic.poetyin.me,30003,aes-128-gcm,"desperadoj.com_free_proxy_x80j"
+🎧 Netease7 = Shadowsocks,music.desperadoj.com,30001,aes-128-gcm,"desperadoj.com_free_proxy_emx2"
+🎧 Netease8 = Shadowsocks,music.desperadoj.com,30003,aes-128-gcm,"desperadoj.com_free_proxy_emx2"
+🎧 Netease9 = Shadowsocks,proxy.plusmedia.site,58080,rc4-md5,"ieG9l1nte5eo7IBZas84jLi"
+🎧 Netease10 = Shadowsocks,proxy.plusmedia.site,58081,rc4-md5,"ieG9l1nte5eo7IBZas84jLi"
+🎧 网易音乐1, server: lolico.me, port: 443, type: http, country:us US, tls: false, skip-cert-verify: false}
+🎧 网易音乐2, server: aimer.one, port: 3333, type: http, country:cn CN, tls: false, skip-cert-verify: false}
+🎧 网易音乐3, server: gx3dong.top, port: 8088, type: http, country:cn CN, tls: false, skip-cert-verify: false}
+🎧 网易音乐4, server: 106.52.127.72, port: 19951, type: http, country:cn CN, tls: false, skip-cert-verify: false}
+🎧 网易音乐5, server: music.lolico.me, port: 39000, type: http, country:cn CN, tls: false, skip-cert-verify: false}
+🎧 网易音乐6, server: music.griouges.cn, port: 39000, type: http, country:cn CN, tls: false, skip-cert-verify: false}
+🎧 网易音乐7, server: block4music.poetyin.me, port: 39000, type: http, country:cn CN, tls: false, skip-cert-verify: false}
+🎧 网易音乐8, server: proxy.plusmedia.site, port: 58080, type: ss, country:us US, cipher: rc4-md5, password: T5ckndbLSXHQ}
+🎧 网易音乐9, server: proxy.plusmedia.site, port: 58081, type: ss, country:us US, cipher: rc4-md5, password: T5ckndbLSXHQ}
+🎧 网易音乐10, server: music.desperadoj.com, port: 30001, type: ss, country:cn CN, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_emx2}
+🎧 网易音乐11, server: music.desperadoj.com, port: 30003, type: ss, country:cn CN, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_emx2}
+🎧 网易音乐12, server: music.desperadoj.com, port: 30001, type: ss, country:cn CN, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_vrfn}
