@@ -1,13 +1,13 @@
 proxies:
-  - {name: 🎧 第一项有数值就可用/火箭圈x通用, server: lolico.me, port: 443, type: http, country:us US, tls: false, skip-cert-verify: false}
+  - {name: 🎧 网易音乐, server: lolico.me, port: 443, type: http, country:us US, tls: false, skip-cert-verify: false}
   - {name: 🎧 网易音乐1, server: lolico.me, port: 443, type: http, country:us US, tls: false, skip-cert-verify: false}
   - {name: 🎧 网易音乐2, server: aimer.one, port: 3333, type: http, country:cn CN, tls: false, skip-cert-verify: false}
-  - {name: 🎧 TG频道@M0NATA, server: gx3dong.top, port: 8088, type: http, country:cn CN, tls: false, skip-cert-verify: false}
+  - {name: 🎧 网易音乐3, server: gx3dong.top, port: 8088, type: http, country:cn CN, tls: false, skip-cert-verify: false}
   - {name: 🎧 网易音乐4, server: 106.52.127.72, port: 19951, type: http, country:cn CN, tls: false, skip-cert-verify: false}
   - {name: 🎧 网易音乐5, server: music.lolico.me, port: 39000, type: http, country:cn CN, tls: false, skip-cert-verify: false}
   - {name: 🎧 网易音乐6, server: music.griouges.cn, port: 39000, type: http, country:cn CN, tls: false, skip-cert-verify: false}
   - {name: 🎧 网易音乐7, server: block4music.poetyin.me, port: 39000, type: http, country:cn CN, tls: false, skip-cert-verify: false}
-  - {name: 🎧 TG群@M0NATAS, server: proxy.plusmedia.site, port: 58080, type: ss, country:us US, cipher: rc4-md5, password: T5ckndbLSXHQ}
+  - {name: 🎧 网易音乐8, server: proxy.plusmedia.site, port: 58080, type: ss, country:us US, cipher: rc4-md5, password: T5ckndbLSXHQ}
   - {name: 🎧 网易音乐9, server: proxy.plusmedia.site, port: 58081, type: ss, country:us US, cipher: rc4-md5, password: T5ckndbLSXHQ}
   - {name: 🎧 网易音乐10, server: music.desperadoj.com, port: 30001, type: ss, country:cn CN, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_emx2}
   - {name: 🎧 网易音乐11, server: music.desperadoj.com, port: 30003, type: ss, country:cn CN, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_emx2}
