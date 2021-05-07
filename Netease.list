@@ -4,3 +4,6 @@
 🎧 Netease 4 = http,block4music.poetyin.me,39000
 🎧 Netease 5 = Shadowsocks,music.desperadoj.com,30001,aes-128-gcm,"desperadoj.com_free_proxy_emx2"
 🎧 Netease 6 = Shadowsocks,music.desperadoj.com,30003,aes-128-gcm,"desperadoj.com_free_proxy_emx2"
+🎧 Netease 7 = http,106.52.127.72,19951
+🎧 Netease 8 = Shadowsocks,proxy.plusmedia.site,58080,rc4-md5,"ieG9l1nte5eo7IBZas84jLi"
+🎧 Netease 9 = Shadowsocks,proxy.plusmedia.site,58081,rc4-md5,"ieG9l1nte5eo7IBZas84jLi"
