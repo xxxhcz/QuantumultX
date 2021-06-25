@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV1-综合
+http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1 ,CCTV2-财经
+http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
+#EXTINF:-1 ,CCTV3-综艺
+http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1 ,CCTV4-中文国际
+http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
+#EXTINF:-1 ,CCTV5-体育
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1 ,CCTV6-电影
+http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1 ,CCTV7-国防军事
+http://ivi.bupt.edu.cn/hls/cctv7hd.m3u8
+#EXTINF:-1 ,CCTV8-电视剧
+http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+#EXTINF:-1 ,CCTV9-记录
+http://ivi.bupt.edu.cn/hls/cctv9hd.m3u8
+#EXTINF:-1 ,CCTV10-科教
+http://ivi.bupt.edu.cn/hls/cctv10hd.m3u8
+#EXTINF:-1 ,CCTV11-戏曲
+http://ivi.bupt.edu.cn/hls/cctv11hd.m3u8
+#EXTINF:-1 ,CCTV12-社会与法
+http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
+#EXTINF:-1 ,CCTV13-新闻
+http://ivi.bupt.edu.cn/hls/cctv13hd.m3u8
+#EXTINF:-1 ,CCTV14-少儿
+http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
+#EXTINF:-1 ,====== 地方卫视 ======
+http://1/1.m3u8
+#EXTINF:-1 ,深圳卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/szwshd/2300000/mnf.m3u8
+#EXTINF:-1 ,湖北卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hbwshd/2300000/mnf.m3u8
+#EXTINF:-1 ,北京卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/bjwshd/2300000/mnf.m3u8
+#EXTINF:-1 ,湖南卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hnwshd/2300000/mnf.m3u8
+#EXTINF:-1 ,浙江卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/zjwshd/2300000/mnf.m3u8
+#EXTINF:-1 ,东方卫视
+http://ivi.bupt.edu.cn/hls/dfhd.m3u8
+#EXTINF:-1 ,江苏卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jswshd/4000000/mnf.m3u8
+#EXTINF:-1 ,天津卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/tjwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,安徽卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ahwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/lnwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hljwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,山东卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/sdwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,广东卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/gdwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,河北卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hbwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,陕西卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/sxws/1300000/mnf.m3u8
+#EXTINF:-1 ,河南卫视
+http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225815/index.m3u8
+#EXTINF:-1 ,广西卫视
+http://ivi.bupt.edu.cn/hls/gxhd.m3u8
+#EXTINF:-1 ,江西卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jxwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,四川卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/scws/1300000/mnf.m3u8
+#EXTINF:-1 ,重庆卫视
+http://ivi.bupt.edu.cn/hls/cqhd.m3u8
+#EXTINF:-1 ,东南卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dnwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,贵州卫视
+http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225787/index.m3u8
+#EXTINF:-1 ,内蒙古卫视
+http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
