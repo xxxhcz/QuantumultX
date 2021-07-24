@@ -222,8 +222,6 @@ http://stream2.xiancity.cn/xatv4/sd/live.m3u8
 http://223.110.243.135/PLTV/4/224/3221225937/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",海西影视
 http://stream.haixitv.cn/1/sd/live.m3u8
-#EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港澳台",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",澳门卫视
 http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",澳门资讯
@@ -1194,17 +1192,11 @@ http://stream1.jlntv.cn/lqpd/sd/live.m3u8
 #EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="未分类",新视觉HD
 http://125.210.152.21:9120/live/XSJHD.m3u8
 #EXTINF:-1 tvg-id="6606" tvg-name="四海钓鱼" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg" group-title="未分类",四海钓鱼
-http://125.210.152.18:9090/live/SHDY.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",4+汽车
-http://pull-g.kktv8.com/livekktv/50118532.flv
 #EXTINF:-1 tvg-id="701" tvg-name="FashionTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="未分类",FTV足球
 http://ivi.bupt.edu.cn/hls/zqhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广东高尔夫
 http://szlive.grtn.cn/grfpd/sd/live.m3u8?_upt=fc7e2d3e1587586800&token=596d2dbcfd13ac404493302f3630ca67
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",足球
-http://39.134.39.37/PLTV/88888888/224/3221226291/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",HWF散打
-http://pull-g.kktv8.com/livekktv/57588147.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",电子竞技
 http://125.210.152.21:9120/live/DZJJ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",黑莓动画
