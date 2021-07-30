@@ -73,7 +73,7 @@ http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls186a72.m3u8
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls71a16.m3u8
 #EXTINF:-1tvg-id="46"tvg-name="黑龙江卫视"tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png"group-title="卫视",黑龙江卫视-高清
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls71a14.m3u8
-#EXTINF:-1tvg-id="36"tvg-name="辽宁卫视"tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"group-title="辽宁",辽宁卫视-高清
+#EXTINF:-1tvg-id="36"tvg-name="辽宁卫视"tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"group-title="卫视",辽宁卫视-高清
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls185a393.m3u8
 #EXTINF:-1tvg-id="39"tvg-name="天津卫视"tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png"group-title="卫视",天津卫视-高清
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls69a22.m3u8
