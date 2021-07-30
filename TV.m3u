@@ -33,7 +33,7 @@ http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls71a13.m3u8
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls186a15.m3u8
 #EXTINF:-1tvg-id="17"tvg-name="CCTV17"tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png"group-title="央视",CCTV-17农业农村-高清
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls185a17.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台-高清
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
 https://cdn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",香港-J2-高清
 https://cdn.hkdtmb.com/hls/82/index.m3u8
