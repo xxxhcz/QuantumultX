@@ -157,5 +157,5 @@ http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/startv.m3u8
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/discovery.m3u8
 #EXTINF:-1tvg-id="527"tvg-name="CHANNEL[V]"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png"group-title="地方",Channel[V]-标清
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/channelv.m3u8
-#EXTINF:-1tvg-id="691"tvg-name="国家地理频道"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png"group-title="地方",国家地理频道-标清
+#EXTINF:-1tvg-id="691"tvg-name="国家地理 ；频道"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png"group-title="地方",国家地理频道-标清
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/natlgeo.m3u8
