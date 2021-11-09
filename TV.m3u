@@ -79,7 +79,7 @@ https://vip:vip930@vip.hkdtmb.com/hls/76/index.m3u8
 http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",香港C+ - 蓝光
 http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/cx4k.png" group-title="4K卫视",纯享4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/cx4k.png" group-title="卫视",纯享4K
 http://39.135.140.233:6610/PLTV/88888888/224/3221225786/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视 
 http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-beijingstv/HD-2500k-1080P-beijingstv
