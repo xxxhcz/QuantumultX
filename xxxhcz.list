@@ -7,7 +7,7 @@ HOST-SUFFIX,hkdtmb.com,media
 HOST-SUFFIX,blueseamusics.com,media
 # singularity公益服
 HOST-SUFFIX,singularity.deja-vu.beauty,media
-IP-CIDR,163.172.90.0/24,no-resolve,media
+IP-CIDR,163.172.90.0/24,media
 # tiktok
 PROCESS-NAME,com.ss.android.ugc.trill,media
 HOST-SUFFIX,byteoversea.com,media
