@@ -1,0 +1,207 @@
+# misty
+DOMAIN-SUFFIX,misty.ltd,media
+# 香港台直播线路
+DOMAIN-SUFFIX,hklive.tv,media
+DOMAIN-SUFFIX,hkdtmb.com,media
+# blueseamusics线路
+DOMAIN-SUFFIX,blueseamusics.com,media
+# singularity公益服
+DOMAIN-SUFFIX,singularity.deja-vu.beauty,media
+IP-CIDR,163.172.90.0/24,no-resolve,media
+# tiktok
+PROCESS-NAME,com.ss.android.ugc.trill,media
+DOMAIN-SUFFIX,byteoversea.com,media
+DOMAIN-SUFFIX,ibytedtos.com,media
+DOMAIN-SUFFIX,ipstatp.com,media
+DOMAIN-SUFFIX,muscdn.com,media
+DOMAIN-SUFFIX,musical.ly,media
+DOMAIN-SUFFIX,tiktok.com,media
+DOMAIN-SUFFIX,tik-tokapi.com,media
+DOMAIN-SUFFIX,tiktokcdn.com,media
+DOMAIN-SUFFIX,tiktokv.com,media
+DOMAIN-KEYWORD,tiktokcdn,media
+# Nakonako
+DOMAIN-SUFFIX,nakonako.net,media
+IP-CIDR,95.217.228.0/24,media
+# 卷毛鼠高可用
+DOMAIN-SUFFIX,ha.jmsooo.com,media
+# MisakaF公益服
+DOMAIN-SUFFIX,misakaf.org,media
+IP-CIDR,194.180.179.0/24,media
+# hs
+IP-CIDR,65.108.140.0/24,media
+#syncnext
+DOMAIN-SUFFIX,olevod.com,media #欧乐
+DOMAIN-SUFFIX,olehdtv.com,media #欧乐
+DOMAIN-SUFFIX,olemovienews.com,media #欧乐
+DOMAIN-SUFFIX,if101.tv,media #if101
+DOMAIN-SUFFIX,kaooooo.com,media #if101
+DOMAIN-SUFFIX,ghewig.com,media #if101
+DOMAIN-SUFFIX,haiwaikan.com,media #海外看
+DOMAIN-SUFFIX,bfvvs.com,media #海外看
+DOMAIN-SUFFIX,cdn.venus7202.com,media #海外看
+DOMAIN-SUFFIX,cdn.ceres9350.com,media #海外看
+DOMAIN-SUFFIX,vip.lz-cdn11.com,media #量子
+# 404公益服
+DOMAIN-SUFFIX,404.sb,media
+# 终端站4妹(infuse)
+DOMAIN-SUFFIX,pub4.emby.wtf,media
+# Orange服
+DOMAIN-SUFFIX,embytv.cf,media
+# polo中转
+DOMAIN-SUFFIX,sfzf2.poloemby.xyz,media
+# peach服
+DOMAIN-SUFFIX,embymv.tk,media 
+# Atvii服
+DOMAIN-SUFFIX,atvii.com,media
+# 翡翠台
+IP-CIDR,23.237.10.0/24,media
+# Nebula服  星云服
+DOMAIN-SUFFIX,direct.nebula-emby.com,media
+
+
+
+# 香港自定义
+
+ IP-CIDR,104.27.207.0/24,HK
+# 超级跑车公益服
+DOMAIN-SUFFIX,emby.cjpc.cc,HK
+# appstorrent  mac ,HK
+DOMAIN-SUFFIX,psv4.userapi.com,HK
+# 终端站亚洲入口
+DOMAIN-SUFFIX,pub1.emby.wtf,HK
+DOMAIN-SUFFIX,pub2.emby.wtf,HK
+DOMAIN-SUFFIX,pub3.emby.wtf,HK
+# misty服香港线路
+DOMAIN-SUFFIX,hk.aaa.ax,HK
+# 黑山公益服
+DOMAIN-SUFFIX,gcx920110.com,HK
+IP-CIDR,185.197.194.0/24,HK
+# Orange服香港线路
+DOMAIN-SUFFIX,emby.52.al,HK
+
+
+# jp分流
+
+DOMAIN-SUFFIX,mediafire.com,JP
+DOMAIN-SUFFIX,jp.ssky.me,JP
+# jp.blueseamusicbox.best线路
+DOMAIN-SUFFIX,jp.blueseamusicbox.best,JP
+# 奥德赛JP
+DOMAIN-SUFFIX,jp.odysseyplus.site,JP
+
+
+# 新加坡自定义
+
+IP-CIDR,157.245.49.0/24,SG
+IP-CIDR,143.198.94.163/32,SG
+# 卷毛鼠
+DOMAIN-SUFFIX,sg1.jmsooo,SG
+DOMAIN-SUFFIX,sg2.jmsooo,SG
+# 奥德赛SG
+DOMAIN-SUFFIX,sg.odysseyplus.site,SG
+
+# 美区自定义
+
+# 奥德赛
+DOMAIN-SUFFIX,cf.odysseyplus.site,US
+DOMAIN-SUFFIX,us.odysseyplus.site,US
+DOMAIN-SUFFIX,sp.odysseyplus.site,US
+# 终点站欧美
+DOMAIN-SUFFIX,pub1back.emby.wtf,US
+DOMAIN-SUFFIX,pub2back.emby.wtf,US
+DOMAIN-SUFFIX,pub3back.emby.wtf,US
+# google voice
+DOMAIN,lens.l.google.com,US
+
+# 直连列表
+ 
+# filebox订阅服务器直连
+DOMAIN-SUFFIX,api.revenuecat.com,DIRECT
+# 终点站直连
+DOMAIN-SUFFIX,pub1ha2.emby.wtf,DIRECT
+DOMAIN-SUFFIX,pub2ha2.emby.wtf,DIRECT
+DOMAIN-SUFFIX,pub3ha2.emby.wtf,DIRECT
+# obox直连列表
+DOMAIN-SUFFIX,youku.com,DIRECT
+DOMAIN-SUFFIX,l.qq.com,DIRECT
+DOMAIN-SUFFIX,valipl.cp31.ott.cibntv.net,DIRECT
+DOMAIN-SUFFIX,mgtv.com,DIRECT
+DOMAIN-SUFFIX,iqiyi.com,DIRECT
+DOMAIN-SUFFIX,ptqy.gitv.tv,DIRECT
+DOMAIN-SUFFIX,jk.55fc63.com,DIRECT
+DOMAIN-SUFFIX,500k.blqqg.cn,DIRECT
+DOMAIN-SUFFIX,tp.xmlt88.com,DIRECT
+DOMAIN-SUFFIX,bttwo.com,DIRECT
+DOMAIN-SUFFIX,api.miued.com,DIRECT
+DOMAIN-SUFFIX,fendou.duoduozy.com,DIRECT
+DOMAIN-SUFFIX,w7tv.com,DIRECT
+DOMAIN-SUFFIX,mp4er.com,DIRECT
+DOMAIN-SUFFIX,bde4.cc,DIRECT
+DOMAIN-SUFFIX,fositv.com,DIRECT
+DOMAIN-SUFFIX,cdn2.bzjupinhang.com,DIRECT
+DOMAIN-SUFFIX,loli.magedn.com,DIRECT
+DOMAIN-SUFFIX,ddrk.me,DIRECT
+DOMAIN-SUFFIX,qqgame.gzc.svp.tencent-cloud.com,DIRECT
+DOMAIN-SUFFIX,ddrk.oss-cn-shanghai.aliyuncs.com,DIRECT
+DOMAIN-SUFFIX,novipnoad.com,DIRECT
+DOMAIN-SUFFIX,nfmovies.com,DIRECT
+DOMAIN-SUFFIX,wy.bigmao.top,DIRECT
+#群晖
+DOMAIN-KEYWORD,synology,DIRECT
+#syncnext 主要 API
+DOMAIN-SUFFIX,notion-api.splitbee.io,DIRECT
+DOMAIN-SUFFIX,syncnext-api.5mlstudio.com,DIRECT
+#syncnext 次要 API
+DOMAIN-SUFFIX,movie.douban.com,DIRECT # 首頁推薦內容
+DOMAIN-SUFFIX,discord.com,DIRECT # 自動反饋錯誤
+#syncnext 頻道
+DOMAIN-SUFFIX,mddcloud.com.cn,DIRECT
+DOMAIN-SUFFIX,ddys.tv,DIRECT
+DOMAIN-SUFFIX,czspp.com,DIRECT
+DOMAIN-SUFFIX,agefans.app,DIRECT
+#syncnext其他域名
+DOMAIN-SUFFIX, aliyundrive.asia,DIRECT
+#syncnex vod域名
+DOMAIN-SUFFIX,39kan.com,DIRECT
+DOMAIN-SUFFIX,aitesucai.xyz,DIRECT
+DOMAIN-SUFFIX,vipmv.cc,DIRECT
+DOMAIN-SUFFIX,000zy.com,DIRECT
+DOMAIN-SUFFIX,mbomovie.com,DIRECT
+DOMAIN-SUFFIX,bljiex.com,DIRECT
+DOMAIN-SUFFIX,lehootv.com,DIRECT
+DOMAIN-SUFFIX,sdzyapi.com,DIRECT
+DOMAIN-SUFFIX,tangrenjie.tv,DIRECT
+DOMAIN-SUFFIX,fqzy.cc,DIRECT
+DOMAIN-SUFFIX,kuapi.cc,DIRECT
+DOMAIN-SUFFIX,zzrhgg.com,DIRECT
+DOMAIN-SUFFIX,taopianapi.com,DIRECT
+DOMAIN-SUFFIX,wujinapi.com,DIRECT
+DOMAIN-SUFFIX,hongniuzy2.com,DIRECT
+DOMAIN-SUFFIX,wolongzyw.com,DIRECT
+DOMAIN-SUFFIX,kudian10.com,DIRECT
+#peach服直连线路
+DOMAIN-SUFFIX,emby-peach.blueseacdn.com,DIRECT
+DOMAIN-SUFFIX,us.embymv.tk,DIRECT
+# polo 直连
+DOMAIN-SUFFIX,cu.poloemby.xyz,DIRECT
+# blueseacdn.com服
+DOMAIN-SUFFIX,emby-pub1.blueseacdn.com,DIRECT
+DOMAIN-SUFFIX,bsem.ddns.me,DIRECT
+# magpie服
+DOMAIN-SUFFIX,magpie.eu.org,DIRECT
+# 卷毛鼠
+DOMAIN-SUFFIX,cf.jmsooo.com,DIRECT
+# magpie 私人高清影视库jellyfin服
+DOMAIN-SUFFIX,magpie.eu.org,DIRECT
+
+#PROXY
+
+# bianyuan
+DOMAIN-KEYWORD,bianyuan,PROXY
+# 红袖
+DOMAIN-KEYWORD,hongxiua,PROXY
+# supes
+DOMAIN-SUFFIX,supes.top,PROXY
+# aixdzs
+DOMAIN-SUFFIX,aixdzs.com,PROXY
