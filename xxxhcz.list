@@ -30,18 +30,30 @@ HOST-SUFFIX,misakaf.org,media
 IP-CIDR,194.180.179.0/24,media
 # hs
 IP-CIDR,65.108.140.0/24,media
+
 #syncnext
-HOST-SUFFIX,olevod.com,media #欧乐
-HOST-SUFFIX,olehdtv.com,media #欧乐
-HOST-SUFFIX,olemovienews.com,media #欧乐
-HOST-SUFFIX,if101.tv,media #if101
-HOST-SUFFIX,kaooooo.com,media #if101
-HOST-SUFFIX,ghewig.com,media #if101
-HOST-SUFFIX,haiwaikan.com,media #海外看
-HOST-SUFFIX,bfvvs.com,media #海外看
-HOST-SUFFIX,cdn.venus7202.com,media #海外看
-HOST-SUFFIX,cdn.ceres9350.com,media #海外看
-HOST-SUFFIX,vip.lz-cdn11.com,media #量子
+#欧乐
+HOST-SUFFIX,olevod.com,media
+#欧乐
+HOST-SUFFIX,olehdtv.com,media
+#欧乐
+HOST-SUFFIX,olemovienews.com,media
+#if101
+HOST-SUFFIX,if101.tv,media
+#if101
+HOST-SUFFIX,kaooooo.com,media
+#if101
+HOST-SUFFIX,ghewig.com,media
+#海外看
+HOST-SUFFIX,haiwaikan.com,media
+#海外看
+HOST-SUFFIX,bfvvs.com,media
+#海外看
+HOST-SUFFIX,cdn.venus7202.com,media
+#海外看
+HOST-SUFFIX,cdn.ceres9350.com,media
+#量子
+OST-SUFFIX,vip.lz-cdn11.com,media
 # 404公益服
 HOST-SUFFIX,404.sb,media
 # 终端站4妹(infuse)
@@ -153,8 +165,10 @@ DOMAIN-KEYWORD,synology,DIRECT
 HOST-SUFFIX,notion-api.splitbee.io,DIRECT
 HOST-SUFFIX,syncnext-api.5mlstudio.com,DIRECT
 #syncnext 次要 API
-HOST-SUFFIX,movie.douban.com,DIRECT # 首頁推薦內容
-HOST-SUFFIX,discord.com,DIRECT # 自動反饋錯誤
+# 首頁推薦內容
+HOST-SUFFIX,movie.douban.com,DIRECT
+# 自動反饋錯誤
+HOST-SUFFIX,discord.com,DIRECT
 #syncnext 頻道
 HOST-SUFFIX,mddcloud.com.cn,DIRECT
 HOST-SUFFIX,ddys.tv,DIRECT
