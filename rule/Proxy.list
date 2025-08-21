@@ -1,0 +1,41 @@
+#Syncnext代理域名
+HOST-SUFFIX,v1.ax,Global
+HOST-SUFFIX,notion-api.splitbee.io,Global
+HOST-SUFFIX,themoviedb.org,Global
+HOST-SUFFIX,thetvdb.com,Global
+HOST-SUFFIX,tmdb.org,Global
+HOST-SUFFIX,discord.com,Global
+HOST-SUFFIX,olevod.com,Global
+HOST-SUFFIX,olevod.tv,Global
+HOST-SUFFIX,olemovienews.com,Global
+HOST-SUFFIX,haiwaikan.com,Global
+HOST-SUFFIX,bfvvs.com,Global
+HOST-SUFFIX,cdn.venus7202.com,Global
+HOST-SUFFIX,cdn.ceres9350.com,Global
+HOST-SUFFIX,cdn.efhie.com,Global
+HOST-SUFFIX,picsum.photos,Global
+HOST-SUFFIX,ibb.co,Global
+HOST-SUFFIX,kin6c1.com,Global
+HOST-SUFFIX,iz8qkg.com,Global
+HOST-SUFFIX,v82u1l.com,Global
+HOST-SUFFIX,ikzybf.com,Global
+HOST-SUFFIX,scrapingbee.com,Global
+HOST-SUFFIX,nivod.tv,Global
+HOST-SUFFIX,nivodi.tv,Global
+HOST-SUFFIX,nivodz.com,Global
+HOST-SUFFIX,histar.tv,Global
+HOST-SUFFIX,youtubekit-remote.losjet.com,Global
+# supes
+HOST-SUFFIX,supes.top,Global
+# aixdzs
+HOST-SUFFIX,aixdzs.com,Global
+#国外DNS
+IP-CIDR,1.1.1.0/24,no-resolve,Global
+# bocchi
+HOST-SUFFIX,bocchi.site,Global
+# wcc.best
+HOST-SUFFIX,wcc.best,Global
+#稳连云
+HOST-SUFFIX,wly91.xyz,Global
+#kitty云
+HOST-SUFFIX,kitty.ceo,Global
