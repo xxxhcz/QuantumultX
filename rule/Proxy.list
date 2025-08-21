@@ -29,10 +29,6 @@ HOST-SUFFIX,youtubekit-remote.losjet.com,Global
 HOST-SUFFIX,supes.top,Global
 # aixdzs
 HOST-SUFFIX,aixdzs.com,Global
-#国外DNS
-IP-CIDR,1.1.1.0/24,no-resolve,Global
-# bocchi
-HOST-SUFFIX,bocchi.site,Global
 # wcc.best
 HOST-SUFFIX,wcc.best,Global
 #稳连云
