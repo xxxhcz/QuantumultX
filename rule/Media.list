@@ -1,9 +1,7 @@
 # 123
-HOST-SUFFIX,123av.com,Media
-HOST-SUFFIX,njav.tv,Media
 HOST-SUFFIX,1av.to,Media
-HOST-SUFFIX,123av.com,Media
-HOST-SUFFIX,njav.com,Media
+HOST-KEYWORD,123av,Media
+HOST-KEYWORD,njav,Media
 HOST-SUFFIX,surrit.online,Media
     
 # 奥德赛
